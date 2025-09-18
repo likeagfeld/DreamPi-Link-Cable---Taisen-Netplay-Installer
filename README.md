@@ -44,3 +44,7 @@ https://www.segasaturnshiro.com/2025/09/18/taisen-netplay-brings-new-ways-to-pla
 
 ## Thanks to eaudunord for creating the underlying DreamPi Link Cable system and web interface that this installer manages.
 
+![DreamPi Link Cable Screenshot 1](Screenshot1.png)
+![DreamPi Link Cable Screenshot 2](Screenshot2.png)
+![DreamPi Link Cable Screenshot 3](Screenshot3.png)
+![DreamPi Link Cable Screenshot 4](Screenshot4.png)

@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --windowed --name "DreamPiLinkCableCompleteInstaller" --icon=dreampi_logo.ico --add-data "dreampi_logo.ico;." pi_installer.py

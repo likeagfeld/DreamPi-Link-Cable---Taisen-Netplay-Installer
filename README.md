@@ -1,4 +1,7 @@
-# DreamPi-Link-Cable---Web-UI-Installer
+![DreamPi Link Cable Logo](dreampi_logo.ico)
+
+# DreamPi Link Cable Installer
+
 Windows installer for DreamPi Link Cable web interface - handles SSH installation, service setup, and shortcut creation on DreamPi
 
 # DreamPi Link Cable Installer

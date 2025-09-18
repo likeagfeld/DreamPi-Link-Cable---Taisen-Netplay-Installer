@@ -2,11 +2,7 @@
 
 # DreamPi Link Cable Installer
 
-Windows installer for DreamPi Link Cable web interface - handles SSH installation, service setup, and shortcut creation on DreamPi
-
-# DreamPi Link Cable Installer
-
-A Windows application that installs and manages the DreamPi Link Cable web interface on your Raspberry Pi. Connects via SSH to set up the web server, create system services, and add Windows shortcuts.
+A Windows application that installs and manages the DreamPi Link Cable web interface on your Raspberry Pi / DreamPi. Connects via SSH to set up the web server, create system services, and add Windows shortcuts.
 
 ## What it does
 
@@ -33,11 +29,18 @@ A Windows application that installs and manages the DreamPi Link Cable web inter
 6. Use the created shortcuts to access the web interface at `http://your-pi:1999`
 
 
+## Credits
+
 This installer automates the setup of components from these projects:
 
-DreamPi Link Cable Web Interface: eaudunord/taisen-web-ui
-DreamCast Taisen Netplay: eaudunord/dc-taisen-netplay
+DreamPi Link Cable Web Interface:
+https://github.com/eaudunord/taisen-web-ui
 
-Thanks to eaudunord for creating the underlying DreamPi Link Cable system and web interface that this installer manages.
+DreamCast Taisen Netplay:
+https://github.com/eaudunord/dc-taisen-netplay
 
+More info about Taisen Netplay:
+https://www.segasaturnshiro.com/2025/09/18/taisen-netplay-brings-new-ways-to-play-your-dreamcast-online/
+
+## Thanks to eaudunord for creating the underlying DreamPi Link Cable system and web interface that this installer manages.
 

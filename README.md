@@ -29,7 +29,7 @@ A Windows application that installs and manages the DreamPi Link Cable web inter
 5. Click install and wait for completion
 6. Use the created shortcuts to access the web interface at `http://your-pi:1999`
 
-Credits
+
 This installer automates the setup of components from these projects:
 
 DreamPi Link Cable Web Interface: eaudunord/taisen-web-ui
